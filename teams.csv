@@ -1,0 +1,21 @@
+,league_id,season_id,team_id,team_name,city,team_abbreviation,division,conference,status,timezone
+0,00,2022,1610612737,Hawks,Atlanta,ATL,Southeast,East,ACTIVE,America/New_York
+1,00,2022,1610612738,Celtics,Boston,BOS,Atlantic,East,ACTIVE,America/New_York
+2,00,2022,1610612739,Cavaliers,Cleveland,CLE,Central,East,ACTIVE,America/New_York
+3,00,2022,1610612740,Pelicans,New Orleans,NOP,Southwest,West,ACTIVE,America/Chicago
+4,00,2022,1610612741,Bulls,Chicago,CHI,Central,East,ACTIVE,America/Chicago
+5,00,2022,1610612743,Nuggets,Denver,DEN,Northwest,West,ACTIVE,America/Denver
+6,00,2022,1610612744,Warriors,Golden State,GSW,Pacific,West,ACTIVE,America/Los_Angeles
+7,00,2022,1610612746,Clippers,LA,LAC,Pacific,West,ACTIVE,America/Los_Angeles
+8,00,2022,1610612747,Lakers,Los Angeles,LAL,Pacific,West,ACTIVE,America/Los_Angeles
+9,00,2022,1610612748,Heat,Miami,MIA,Southeast,East,ACTIVE,America/New_York
+10,00,2022,1610612749,Bucks,Milwaukee,MIL,Central,East,ACTIVE,America/Chicago
+11,00,2022,1610612750,Timberwolves,Minnesota,MIN,Northwest,West,ACTIVE,America/Chicago
+12,00,2022,1610612751,Nets,Brooklyn,BKN,Atlantic,East,ACTIVE,America/New_York
+13,00,2022,1610612752,Knicks,New York,NYK,Atlantic,East,ACTIVE,America/New_York
+14,00,2022,1610612755,76ers,Philadelphia,PHI,Atlantic,East,ACTIVE,America/New_York
+15,00,2022,1610612756,Suns,Phoenix,PHX,Pacific,West,ACTIVE,America/Phoenix
+16,00,2022,1610612758,Kings,Sacramento,SAC,Pacific,West,ACTIVE,America/Los_Angeles
+17,00,2022,1610612760,Thunder,Oklahoma City,OKC,Northwest,West,ACTIVE,America/Chicago
+18,00,2022,1610612761,Raptors,Toronto,TOR,Atlantic,East,ACTIVE,America/Toronto
+19,00,2022,1610612763,Grizzlies,Memphis,MEM,Southwest,West,ACTIVE,America/Chicago
